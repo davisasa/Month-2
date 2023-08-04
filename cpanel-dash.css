@@ -1,0 +1,154 @@
+*{
+    padding: none;
+    margin: none;
+}
+
+.sidebar-blue{
+    background-color: rgba(8,25,62,255);
+    padding-top: 30px;
+    padding-left: 50px !important;
+    width: 80%;
+    color: white;
+    height: 100vh;
+    position: sticky;
+    Overflow-x:scroll;
+    Overflow-y:scroll; 
+}
+
+.cp-img{
+    height: 70px;
+}
+
+.main-body{
+    background-color: #f0eff0;
+    height: 100vh;
+    position: sticky;
+    Overflow-x:scroll;
+    Overflow-y:scroll;
+}
+
+header{
+    height: 10vh;
+    background-color: white;
+    width: 102.3%;
+    margin-left: -15px;
+    display: flex;
+    padding-left: 730px;
+}
+
+header input{
+    height: 45px;
+    width: 400px;
+    margin-top: 15px;
+}
+
+header button{
+    margin-top: -30px;
+    border: 1px black solid;
+    border-radius: 100%;
+    height: 45px;
+}
+
+header button img{
+    height: 32px;
+}
+
+.tools-txt{
+    font-size: 40px;
+    font-weight: 350;
+    padding-top: 20px;
+}
+
+.menu{
+    height: 40px;
+    padding-right: 30px;
+}
+
+.tabs{
+    background-color: #fff !important;
+    border-radius: 2% !important;
+    
+}
+
+.tab-carou h3{
+    font-size: 20px;
+    background-color: rgb(189, 184, 184);
+}
+
+.img-icons{
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+
+
+.tab-menu{
+    width: 250px;
+}
+
+.g-info{
+    background-color: white;
+    height: 680px;
+}
+
+.tab-margin{
+    margin-bottom: 30px !important;
+}
+
+.tab-text{
+    color: black !important;
+    text-decoration: none;
+}
+
+.tab-text:hover{
+    text-decoration: none !important;
+}
+
+.menu-section-1{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 30px;
+    text-align: left;
+}
+
+.menu-section-1 a{
+    color: black;
+    text-decoration: none;
+}
+
+.menu-section-1 a:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.footer{
+    display: flex;
+    width: 75vw;
+    margin-top: 30px;
+}
+
+footer img{
+    height: 70px;
+    margin-left: 20px;
+}
+
+.footer-links{
+    display: flex;
+    justify-content: end;
+    width: 60vw;
+}
+
+.footer ul{
+    display: flex;
+}
+
+.footer li{
+    list-style: none;
+    font-size: 20px;
+    padding-right: 15px;
+    padding-top: 10px;
+}
+
+
+

@@ -1,0 +1,28 @@
+body{
+    background-color: #0f0f0f;
+    color: #fff
+}
+
+hr{
+    border-color: #fff !important;
+}
+
+.sidebar-section{
+    position: sticky;
+    Overflow-x:scroll;
+    Overflow-y:scroll; 
+}
+
+.nav-bar-pos{
+    position: fixed;
+    
+}
+
+.search-bar{
+    width: 100%;
+    background-color: aqua;
+}
+
+.header-icons{
+    background-color: wheat;
+}
